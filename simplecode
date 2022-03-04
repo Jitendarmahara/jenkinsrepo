@@ -1,0 +1,5 @@
+echo"hello how are you"
+date
+cal
+echo"ok printed all the cammand"
+echo "bye"
